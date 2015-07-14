@@ -55,3 +55,20 @@ function evenNumber(min,max){
 
 }
 evenNumber(0,100);
+
+// sixth problem
+
+function isDivisible(x,y){
+  if (y % x === 0) {
+  console.log("true");
+
+      } else {
+
+        console.log("false")
+
+
+    }
+}
+isDivisible(3,5);
+
+// 
